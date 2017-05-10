@@ -15,7 +15,7 @@ Tensorflow:
 
 To test our program we need to load a graph and a txt file into the python program (inception.py)
 Run the inception using the following command on command line
-python tensorflow/examples/image_retraining/retrain.py \
+
 --how_many_training_steps 500 \
 --output_graph= ~/new_graph.pb \
 --output_labels= ~/new_labels.txt \
