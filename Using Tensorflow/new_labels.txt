@@ -1,0 +1,3 @@
+jackets
+shirts
+sweaters
