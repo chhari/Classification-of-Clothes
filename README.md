@@ -33,4 +33,4 @@ run the program and see the result.
 
 ![alt text](https://github.com/chhari/Classification-of-Clothes/blob/master/mainresult.jpg)
 ![alt text](https://github.com/chhari/Classification-of-Clothes/blob/master/pantstest.JPG)
-
+![alt text](https://github.com/chhari/Classification-of-Clothes/blob/master/haritestresultdip.JPG)
