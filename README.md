@@ -1,15 +1,6 @@
 # Classification-of-Clothes
-Matlab :
-Our code works on matlab versions which have a Neural Network Tool Box.
 
-downloadalexnet.mat file downloads the alexnet.
-readandPreprocessImage.mat, reads the image and scales it to appropriate size.
-Training.mat trains the CNN on dataset.
-Testing.mat contains the main code for detection of clothing.
-
-The dataset used for the project can be downloaded from http://people.ee.ethz.ch/~lbossard/projects/accv12/index.html
-
-
+Complete Report : https://github.com/chhari/Classification-of-Clothes/blob/master/Clothing-Classification-and-Recognition.pdf
 
 Tensorflow:
 
@@ -34,3 +25,16 @@ run the program and see the result.
 ![alt text](https://github.com/chhari/Classification-of-Clothes/blob/master/mainresult.jpg)
 ![alt text](https://github.com/chhari/Classification-of-Clothes/blob/master/pantstest.JPG)
 ![alt text](https://github.com/chhari/Classification-of-Clothes/blob/master/haritestresultdip.JPG)
+
+
+Matlab :
+Our code works on matlab versions which have a Neural Network Tool Box.
+
+downloadalexnet.mat file downloads the alexnet.
+readandPreprocessImage.mat, reads the image and scales it to appropriate size.
+Training.mat trains the CNN on dataset.
+Testing.mat contains the main code for detection of clothing.
+
+The dataset used for the project can be downloaded from http://people.ee.ethz.ch/~lbossard/projects/accv12/index.html
+
+
